@@ -1,0 +1,2 @@
+- Keep Satark Drishti demo records in `src/lib/demo-data.ts` and render them through shared portal components so a future API can replace one data boundary.
+- Major authority workflows use dedicated TanStack routes wrapped by the shared portal shell for consistent responsive navigation and metadata.
